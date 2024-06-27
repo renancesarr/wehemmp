@@ -5,7 +5,7 @@ module.exports = {
     extend:{
       colors: {
         greenButton: '#046307',
-        greenButton2: '#556B2F'
+        greenButtonHouver: '#0A8F08'
       },
       textShadow: {
         sm: '1px 1px 2px var(--tw-shadow-color)',
